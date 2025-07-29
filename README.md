@@ -6,13 +6,17 @@
 ---
 
 ## 🚀 About Me  
-I am an enthusiastic and highly motivated BCA (Hons) student on a journey to become a proficient Software Developer.  
-My academic foundation builds a strong understanding of **core computer science principles**, complemented by hands-on experience in diverse technologies.  
 
-- 🔥 Currently mastering **Full-Stack Development**  
-- 🧩 Solid foundation in **OOP, Data Structures, and Algorithms**  
-- 🌐 Applying concepts in **Web Technologies**: HTML, CSS, JavaScript, React.js, Node.js, Express.js  
-- 📱 Interested in **Android Development (Kotlin)** and **Open-Source Contributions**  
+I am an enthusiastic and highly motivated **BCA (Hons) student** passionate about building innovative software solutions. With a strong foundation in **core computer science principles**, I actively apply my skills across **Full-Stack Development, Cloud Technologies, Mobile App Development, and Open-Source Contributions**.
+
+- 🔥 Developing expertise in **Full-Stack Development** (MERN Stack, React.js, Node.js, Express.js, MongoDB)  
+- 🧩 Proficient in **Object-Oriented Programming (OOP), Data Structures, and Algorithms**  
+- 🌐 Experienced in **Web Development**: HTML, CSS, JavaScript, AngularJS, and modern frameworks  
+- 📊 Skilled in **Database Management**: SQL, MySQL, MongoDB, Firebase Cloud Firestore  
+- 📱 Exploring **Mobile App Development** with **Kotlin & Android Studio**  
+- ☁️ Hands-on experience with **Cloud Tools & Secure Authentication** (Firebase, bcrypt, Cloud Storage)  
+- 🛠 Familiar with **development tools**: Git, GitHub, VS Code, IntelliJ IDEA, PyCharm, PowerShell, Git Bash  
+- 💡 Passionate about **Problem-Solving** and leveraging technology to create impactful solutions   
 
 ---
 
