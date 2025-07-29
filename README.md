@@ -36,13 +36,13 @@ My academic foundation is building a strong understanding of **core computer sci
 ---
 
 ## 📊 GitHub Stats  
-![Hamil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Hamil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HamilWT&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HamilWT&layout=compact&theme=radical)
 
 ---
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINK/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/HamilWT/)  
 📧 **Email:** mohammedhamil100@gmail.com  
 
 ---
