@@ -75,7 +75,7 @@ I am an enthusiastic and highly motivated **BCA (Hons) student** passionate abou
 
 ## 🌐 Let's Connect  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/HamilWT/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammed-hamil-pr)  
 📧 **Email:** mohammedhamil100@gmail.com  
 
 ---
