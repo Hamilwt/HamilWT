@@ -16,13 +16,9 @@ I am an enthusiastic and highly motivated **BCA (Hons) student** passionate abou
 - 📱 Exploring **Mobile App Development** with **Kotlin & Android Studio**  
 - ☁️ Hands-on experience with **Cloud Tools & Secure Authentication** (Firebase, bcrypt, Cloud Storage)  
 - 🛠 Familiar with **development tools**: Git, GitHub, VS Code, IntelliJ IDEA, PyCharm, PowerShell, Git Bash  
-- 💡 Passionate about **Problem-Solving** and leveraging technology to create impactful solutions   
+- 💡 Passionate about **Problem-Solving** and leveraging technology to create impactful solutions
 
 ---
-
-## 💼 Featured Project: ScholarSync  
-**A comprehensive student management and communication web application built with Python.**  
-👉 [**Live Demo**](https://scholarsync.streamlit.app/)  
 
 ### 🔑 Key Features:  
 - **🔒 Secure Authentication:** User registration & login with password hashing (bcrypt).  
