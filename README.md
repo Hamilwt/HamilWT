@@ -62,18 +62,8 @@ I am an enthusiastic and highly motivated **BCA (Hons) student** passionate abou
 
 ---
 
-## 📊 GitHub Stats  
-
-![Hamil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HamilWT&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HamilWT&layout=compact&theme=radical)  
-
----
-
 ## 🌐 Let's Connect  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammed-hamil-pr)  
+
 📧 **Email:** mohammedhamil100@gmail.com  
-
----
-
-> 💡 *"Eager to learn, contribute, and grow in the world of technology and software development!"*
