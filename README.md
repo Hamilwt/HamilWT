@@ -1,45 +1,43 @@
-# Hi, I'm Mohammed 👋
-
-### Backend & Systems Engineer
-I focus on building scalable, reliable backend architectures, optimizing database performance, and designing asynchronous systems. 
+**Software Developer**
+I build scalable RESTful APIs, optimize database performance, and design asynchronous backend systems.
 
 ---
 
-## 🛠️ Tech Stack & Tooling
+## Technical Stack
 
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | Python (OOP), SQL |
-| **Backend Frameworks** | FastAPI, RESTful APIs, Pydantic |
-| **Databases & Caching** | PostgreSQL, Redis, DBMS |
-| **Asynchronous Architecture** | Celery, Task Queues |
-| **DevOps & Testing** | Docker, Git, Linux, pytest, Postman |
-| **Core Fundamentals** | Data Structures & Algorithms (DSA), Operating Systems (OS) |
+| **Backend & APIs** | FastAPI, RESTful APIs, Pydantic, SQLAlchemy, SQLModel |
+| **Frontend & Templating** | HTMX, Jinja2, HTML5, CSS3 |
+| **Databases & Infrastructure** | PostgreSQL, Redis, Celery |
+| **Security & Testing** | JWT, bcrypt, Role-Based Access Control (RBAC), pytest |
+| **DevOps & Tools** | Git/GitHub, Docker, Postman, Virtual Environments (venv) |
 
 ---
 
-## 🚀 Active Projects & Engineering Focus
+## Active Projects
 
-### 🔹 Asynchronous Website Uptime Monitor
-*A high-frequency tracking system designed to monitor URL uptime metrics concurrently without blocking the main server threads.*
-* **Architecture:** FastAPI, Redis (Message Broker), Celery (Background Workers), PostgreSQL.
-* **Key Focus:** Distributed task management, worker scalability, and real-time data persistence.
+**Asynchronous Website Uptime Monitor**
+A high-frequency tracking system designed to monitor URL uptime metrics concurrently without blocking main server threads.
+* *Architecture:* FastAPI, Redis, Celery, PostgreSQL, HTMX, Jinja2
 
-### 🔹 RBAC Identity Microservice
-*A stateless authentication and authorization service implementing enterprise-grade access layers.*
-* **Architecture:** Python, FastAPI, JWT (JSON Web Tokens), bcrypt.
-* **Key Focus:** Cryptographic password hashing, secure token signatures, and Role-Based Access Control filters.
+**RBAC Identity Microservice**
+A stateless authentication and authorization service implementing enterprise-grade access layers.
+* *Architecture:* Python, FastAPI, JWT, bcrypt, SQLAlchemy
 
----
-
-## 📈 GitHub Metrics
-
-* 🎯 **Current Objective:** Mastering distributed system architecture, caching strategies, and concurrency models in Python.
-* 🧠 **DSA Focus:** Actively optimizing algorithmic problem-solving patterns (Arrays, HashMaps, Sliding Window).
+**Intelligent Inventory Management API**
+A fully validated, relational database-backed API for real-time stock and order management.
+* *Architecture:* Python (OOP), FastAPI, Pydantic, PostgreSQL
 
 ---
 
-## 🤝 Connect With Me
+## Current Focus
+* Mastering distributed system architectures, caching strategies, and concurrency models.
+* Optimizing algorithmic problem-solving patterns (Arrays, HashMaps, Sliding Window) for technical assessments.
 
-* 💼 **LinkedIn:** [linkedin.com/in/your-username](https://linkedin.com/in/your-username)
-* 📧 **Email:** your.email@example.com
+---
+
+## Connect
+* **LinkedIn:** [linkedin.com/in/mohammed-hamil](https://www.linkedin.com/in/mohammed-hamil-pr/)
+* **Email:** mohammedhamil100@gmail.com
