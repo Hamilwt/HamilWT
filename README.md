@@ -29,15 +29,3 @@ A stateless authentication and authorization service implementing enterprise-gra
 **Intelligent Inventory Management API**
 A fully validated, relational database-backed API for real-time stock and order management.
 * *Architecture:* Python (OOP), FastAPI, Pydantic, PostgreSQL
-
----
-
-## Current Focus
-* Mastering distributed system architectures, caching strategies, and concurrency models.
-* Optimizing algorithmic problem-solving patterns (Arrays, HashMaps, Sliding Window) for technical assessments.
-
----
-
-## Connect
-* **LinkedIn:** [linkedin.com/in/mohammed-hamil](https://www.linkedin.com/in/mohammed-hamil-pr/)
-* **Email:** mohammedhamil100@gmail.com
