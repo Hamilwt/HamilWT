@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mohammed Hamil 👋</h1>
 
-<h3 align="center">Software Developer · Full-Stack · Backend · AI Applications</h3>
+<h3 align="center">Software Developer · Full-Stack · Backend · AI Engineer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/mohammed-hamil-pr"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
