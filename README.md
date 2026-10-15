@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <b>Open to:</b> Software Developer · Full-Stack · Backend · AI/LLM Applications · Python · Android<br/>
+  <b>Open to:</b> Software Developer · Full-Stack · Backend · AI/LLM Engineer · Python · Android<br/>
   Internships &amp; entry-level · Bengaluru
 </p>
 
