@@ -14,7 +14,7 @@
 
 <p align="center">
   <b>Open to:</b> Software Developer · Full-Stack · Backend · AI/LLM Engineer · Python · Android<br/>
-  Internships &amp; full-time roles · Bengaluru
+  Internships &amp; Full-time roles · Bengaluru
 </p>
 
 ---
