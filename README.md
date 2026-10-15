@@ -42,6 +42,14 @@
 </p>
 
 <p align="center">
+  <b>AI &amp; LLM</b><br/>
+  <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square" alt="Gemini API"/>
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square" alt="OpenAI API"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/Langfuse-0A0A0A?style=flat-square" alt="Langfuse"/>
+</p>
+
+<p align="center">
   <b>Cloud, DevOps &amp; Testing</b><br/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
@@ -52,30 +60,13 @@
 </p>
 
 <p align="center">
-  <b>Web &amp; Android</b><br/>
+  <b>Frontend &amp; Android</b><br/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/HTMX-3366CC?style=flat-square&logo=htmx&logoColor=white" alt="HTMX"/>
   <img src="https://img.shields.io/badge/Jinja2-B41717?style=flat-square&logo=jinja&logoColor=white" alt="Jinja2"/>
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
 </p>
-
-<p align="center">
-  <b>Currently building with</b><br/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square" alt="Gemini API"/>
-  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square" alt="OpenAI API"/>
-  <img src="https://img.shields.io/badge/Langfuse-0A0A0A?style=flat-square" alt="Langfuse"/>
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" alt="LangGraph"/>
-</p>
-
----
-
-### 🔨 Currently building: AI Search Visibility Tracker
-
-Shows a brand how often AI search engines (Gemini and OpenAI-compatible models) mention or cite it compared with its competitors. It sends prompts to the models, extracts brand mentions, rank order and cited URLs into validated JSON, stores them in PostgreSQL, and charts "share of voice" over time in a Next.js dashboard.
-
-**Stack:** FastAPI · PostgreSQL + Alembic · Gemini &amp; OpenAI APIs · Langfuse · Next.js + TypeScript · LangGraph · Docker · GitHub Actions
-*In progress. Repo link coming soon.*
 
 <!--
 WHEN YOUR PROJECTS ARE READY: uncomment this block and fill in the links.
